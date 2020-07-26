@@ -1,7 +1,17 @@
 ### Hi there 👋
 - 🌱 I’m currently learning Terraform.
 - 💬 Ask me about everything .Net Core.
-- 📫 How to reach me: <a href="https://twitter.com/intent/follow?screen_name=WajahatAliAbid&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/WajahatAliAbid?label=%40WajahatAliAbid&style=social"></a> 
+
+
+<div align="center">
+  
+  **📫 Reach me at:**<br>
+
+  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/WajahatAliAbid)](https://twitter.com/WajahatAliAbid)
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/WajahatAliAbid/)](https://www.linkedin.com/in/opakholis)
+  [![Spotify Badge](https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/user/wajahataliabid?si=WulLNlz-RcKscxmPCkD-9A)
+
+</div>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img  
