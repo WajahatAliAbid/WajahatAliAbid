@@ -10,5 +10,5 @@
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img  height=365px   src="https://github-readme-stats.vercel.app/api/top-langs/?username=WajahatAliAbid&theme=cobalt" />
+  <img  height=365px   src="https://github-readme-stats.vercel.app/api/top-langs/?username=WajahatAliAbid&hide=Jupyter%20Notebook&theme=cobalt" />
 </a>
