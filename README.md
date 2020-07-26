@@ -6,9 +6,9 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img  
   height=365px
- src="https://github-readme-stats.vercel.app/api?username=WajahatAliAbid&count_private=true&show_icons=true&theme=cobalt" />
+ src="https://github-readme-stats.vercel.app/api?username=WajahatAliAbid&count_private=true&show_icons=true&theme=nightowl" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" height=365px   src="https://github-readme-stats.vercel.app/api/top-langs/?username=WajahatAliAbid&hide=Jupyter%20Notebook&theme=cobalt" />
+  <img align="left" height=365px   src="https://github-readme-stats.vercel.app/api/top-langs/?username=WajahatAliAbid&hide=Jupyter%20Notebook&theme=nightowl" />
 </a>
