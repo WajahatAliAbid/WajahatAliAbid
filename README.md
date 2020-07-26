@@ -12,3 +12,17 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img  height=365px   src="https://github-readme-stats.vercel.app/api/top-langs/?username=WajahatAliAbid&hide=Jupyter%20Notebook&theme=cobalt" />
 </a>
+
+<a href="https://github.com/WajahatAliAbid/haproxy-docker-loadbalancer-autoscaler">
+  <img align="right"  src="https://github-readme-stats.vercel.app/api/pin/?username=WajahatAliAbid&repo=haproxy-docker-loadbalancer-autoscaler&theme=cobalt" />
+</a>
+
+
+<a href="https://github.com/WajahatAliAbid/akka-net-greeter">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=WajahatAliAbid&repo=akka-net-greeter&theme=cobalt" />
+</a>
+
+
+<a href="https://github.com/WajahatAliAbid/ssl-certificate-validator">
+  <img align="right"  src="https://github-readme-stats.vercel.app/api/pin/?username=WajahatAliAbid&repo=ssl-certificate-validator&theme=cobalt" />
+</a>
