@@ -5,12 +5,12 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/WajahatAliAbid/)](https://www.linkedin.com/in/WajahatAliAbid)
 [![Spotify Badge](https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/user/wajahataliabid?si=WulLNlz-RcKscxmPCkD-9A)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="#">
   <img  
   height=365px
  src="https://github-readme-stats.vercel.app/api?username=WajahatAliAbid&count_private=true&show_icons=true&theme=nightowl" />
 </a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="#">
   <img height=365px   src="https://github-readme-stats.vercel.app/api/top-langs/?username=WajahatAliAbid&layout=compact&hide=Jupyter%20Notebook&theme=nightowl" />
 </a>
