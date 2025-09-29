@@ -2,8 +2,8 @@
 🔭 I’m currently working on Kubernetes<br>👯 I’m looking to collaborate on FOSS tools<br>🤝 I’m looking for help with declarative configuration for ArgoCD<br>🌱 I’m currently learning ArgoCD <br>💬 Ask me about .Net, Python, AWS, Terraform, Docker, Linux
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=WajahatAliAbid&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=WajahatAliAbid&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=true&layout=donut)
+![](https://github-readme-stats.vercel.app/api?username=WajahatAliAbid&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=true&hide_title=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=WajahatAliAbid&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=true&layout=donut&hide_title=true)
 
 
 ## 🌐 Socials:
