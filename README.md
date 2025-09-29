@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Kubernetes<br>👯 I’m looking to collaborate on FOSS tools<br>🤝 I’m looking for help with declarative configuration for ArgoCD<br>🌱 I’m currently learning ArgoCD <br>💬 Ask me about .Net, Python, AWS, Terraform, Docker, Linux
+🔭 I’m currently working on Amazon EKS<br>👯 I’m looking to collaborate on FOSS tools<br>🤝 I’m looking for help with Security Tooling<br>🌱 I’m currently learning Linux Security <br>💬 Ask me about .Net, Python, AWS, Terraform, Docker, Linux, Kubernetes
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=WajahatAliAbid&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=true&hide_title=true)
