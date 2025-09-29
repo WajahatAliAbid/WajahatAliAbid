@@ -3,7 +3,7 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=WajahatAliAbid&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=WajahatAliAbid&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=true&layout=pie)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=WajahatAliAbid&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=true&layout=donut)
 
 
 ## 🌐 Socials:
